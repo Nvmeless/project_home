@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nvmeless/project_home/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Nvmeless/project_home/static/js/main.4bbdd0b0.chunk.js",
+    "main.js.map": "/Nvmeless/project_home/static/js/main.4bbdd0b0.chunk.js.map",
+    "runtime-main.js": "/Nvmeless/project_home/static/js/runtime-main.b8a3f278.js",
+    "runtime-main.js.map": "/Nvmeless/project_home/static/js/runtime-main.b8a3f278.js.map",
+    "static/js/2.e68d8041.chunk.js": "/Nvmeless/project_home/static/js/2.e68d8041.chunk.js",
+    "static/js/2.e68d8041.chunk.js.map": "/Nvmeless/project_home/static/js/2.e68d8041.chunk.js.map",
+    "index.html": "/Nvmeless/project_home/index.html",
+    "precache-manifest.cf58e8fc48b8819a9497ab50c51fdc41.js": "/Nvmeless/project_home/precache-manifest.cf58e8fc48b8819a9497ab50c51fdc41.js",
+    "service-worker.js": "/Nvmeless/project_home/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Nvmeless/project_home/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e68d8041.chunk.js.LICENSE.txt": "/Nvmeless/project_home/static/js/2.e68d8041.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Nvmeless/project_home/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8a3f278.js",
+    "static/js/2.e68d8041.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4bbdd0b0.chunk.js"
+  ]
+}
